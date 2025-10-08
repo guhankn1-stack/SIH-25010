@@ -114,3 +114,4 @@ A nonprofit that uses technology and community-based approaches to deliver agric
 - Wadhwani AI – Cotton Pest Management
 An AI-powered solution developed in collaboration with the Indian government to help cotton farmers detect pests and reduce pesticide use.
 </li></ul>
+<img width="750" height="831" alt="Screenshot 2025-09-30 174445" src="https://github.com/user-attachments/assets/19189262-fa90-4001-9046-72587acb0360" />
